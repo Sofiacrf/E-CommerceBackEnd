@@ -12,7 +12,7 @@
   * [License](#License)
 
   ## Description
- The following project allows a manager at an internet company to use the latest techologies in the back end of its application 
+ The following project allows a manager at an internet company to use the latest techologies in the back end of its application so it can compete with other companies
 
   ##  Technologies
   * MySql
