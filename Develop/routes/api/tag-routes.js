@@ -1,3 +1,4 @@
+// Set the API route for tags
 const router = require('express').Router();
 const { Tag, Product, ProductTag } = require('../../models');
 

@@ -1,3 +1,4 @@
+// Set the API route for category
 const router = require('express').Router();
 const { Category, Product } = require('../../models');
 
